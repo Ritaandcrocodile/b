@@ -1,0 +1,164 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background: #D1E8E4;
+  position: relative;
+  padding-top: 100px;
+}
+
+.book-name {
+  color: #66BFBF;
+  margin: 10px auto 10px auto;
+  font-family: 'Merriweather', cursive;
+  font-size: 4rem;
+  line-height: 2;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.skill-row {
+  width: 70%;
+  margin: 20px auto;
+  text-align: left;
+  line-height: 2;
+  font-size: 1.5rem;
+}
+
+.where-to-buy {
+  width: 70%;
+  margin: 200px auto;
+  text-align: right;
+  line-height: 2;
+  font-size: 1.5rem;
+}
+
+.inthebook {
+  margin-top: 10px;
+}
+
+.material-png {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.work-png {
+  width: 30%;
+  float: left;
+  margin-left: 30px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 60%;
+  margin: 80px auto;
+}
+
+a {
+  color: #40514E;
+  font-family: 'Montserrat', sans-serif;
+  /* margin: 5px 10px; */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.intro {
+  width: 70%;
+  margin: auto;
+  text-align: left;
+  font-size: 1.5rem;
+}
+
+.recommendation {
+  width: 70%;
+  margin: auto;
+  text-align: left;
+  font-size: 1.5rem;
+}
+
+.plus {
+  text-align: left;
+  width: 70%;
+  margin: 40px auto 10px auto;
+  font-size: 1.5rem;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 10px auto 10px auto;
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.book-name {
+  color: #66BFBF;
+  margin: 10px auto 10px auto;
+  font-family: 'Merriweather', cursive;
+  font-size: 4rem;
+  line-height: 2;
+}
+
+h1 {
+  margin: 10px auto 10px auto;
+  font-family: 'Merriweather', cursive;
+  font-size: 4rem;
+  line-height: 2;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 100px;
+}
+
+.btn {
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+  height: 10px;
+  line-height: 10px;
+  color: rgba(255, 255, 255, 0.99);
+  font-family: Arial;
+  width: 124px;
+  padding: 9px;
+  background-color: #66BFBF;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
